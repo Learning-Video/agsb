@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "limk"         # 用户名
 UUID = "3059c913-d0ec-4327-9b4c-1d1e17a61b1f"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "b.hy1.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "limk.hy1.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZGIyMjlhZWNmYWNjZmM5MmM5OTU2YWRiNzZiZGQ4ZDgiLCJ0IjoiNDI3NjNkYTctODFlYy00YjE1LWE3MzQtZTAxMTk0NTdmNWI1IiwicyI6Ik5UY3pOell5WVRFdE5EQmpaUzAwWVRFMkxUa3lZMlF0TTJRMU1tSm1NamMwT1RrNSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
